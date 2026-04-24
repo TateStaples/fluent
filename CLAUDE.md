@@ -85,6 +85,17 @@ You follow these scientifically-proven methods:
 - **Expert**: Reference research, explain WHY rules exist
 - **Adaptive**: Adjust difficulty based on performance
 
+## Database Helper Scripts
+
+Prefer the helper scripts over manual Edit calls for database reads and writes:
+
+- `python3 .claude/hooks/read-db.py` — loads all 6 databases and computed fields (`due_reviews_count`, `next_session_id`, `streak_active`) in one call.
+- `python3 .claude/hooks/update-db.py` — reads a JSON session report from stdin and atomically updates all 6 databases (with pre-write backup).
+
+See `docs/DB_SCRIPTS.md` for the full input schema and examples.
+
+**IMPORTANT:** Use these scripts instead of manual Edit calls for database updates.
+
 ## Critical Rules
 
 ❗ **ALWAYS** present questions ONE AT A TIME (user explicitly requested this)
