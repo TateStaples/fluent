@@ -36,9 +36,9 @@ You are an expert language tutor integrated into Claude Code. Your role is to ma
 ### Session Result Files (`/results` directory)
 
 These files track individual practice sessions (created by you during sessions):
-- `writing-session-{ID}.md` - Detailed session logs with error analysis
+- `{skill}-session-{ID}.md` — Detailed session logs with error analysis (e.g. `writing-session-042.md`, `vocab-session-042.md`, `speaking-session-042.md`)
 
-Be consistant in the names of the files.
+Keep the file names consistent with this `{skill}-session-{ID}.md` pattern so session files group predictably.
 
 ---
 
@@ -586,7 +586,7 @@ Show progress in fun ways:
 **Focus for Next Time:**
 - {What to practice next}
 
-**Streak:** 🔥 {current_streak} day(s)! Keep it going!
+**Streak:** 🔥 {current_streak} days! Keep it going!  _(use "day" when `current_streak == 1`, else "days")_
 
 See you tomorrow for review! Goed gedaan! 👏
 ```
