@@ -2,6 +2,18 @@
 
 All notable changes to Fluent will be documented in this file.
 
+## [0.3.0] — 2026-06-15
+
+### Added
+
+- Milestones support in the `update-db.py` session payload. The new
+  `milestones[]` field accepts either a bare string or an object
+  `{ "milestone": <required non-empty string>, "date": <optional YYYY-MM-DD,
+  defaults to the session date> }`. Each milestone is recorded in both
+  `session-log.milestones[]` and `learner-profile.achievements[]`. Validation
+  rejects malformed entries (exit `1`, no files written); an unparseable
+  `date` falls back to the session date.
+
 ## [0.2.1] — 2026-06-11
 
 ### Fixed
