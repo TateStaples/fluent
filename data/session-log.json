@@ -2,7 +2,7 @@
   "metadata": {
     "language": "Mandarin",
     "learner_name": "Tate",
-    "total_sessions": 3
+    "total_sessions": 4
   },
   "sessions": [
     {
@@ -110,6 +110,43 @@
       "notes": "Session 3. Vocab drill. Recurring errors on sān and 五/六 swap — needs targeted isolation. Significant insight on radicals — learner noticed 讠pattern independently. Produced complete hanzi self-introduction unprompted in Word 12.",
       "achievements_earned": [],
       "streak_day": 1
+    },
+    {
+      "session_id": "session-004",
+      "date": "2026-06-26",
+      "duration_minutes": 20,
+      "skills_practiced": [
+        "vocabulary"
+      ],
+      "command_used": "/fluent-vocab",
+      "exercises_completed": 15,
+      "accuracy": 0.733,
+      "score_breakdown": {
+        "vocabulary": 0.733
+      },
+      "topics_covered": [
+        "negation_bu",
+        "negation_meiyou",
+        "adjective_predicates",
+        "question_particle_ma",
+        "follow_up_ne",
+        "character_breakdown_radicals",
+        "dialogue_practice"
+      ],
+      "breakthroughs": [
+        "三 and 五 both correct with no errors — recurring number errors appear resolved",
+        "是/水 distinction caught on sight — shì/shuǐ confusion cleared",
+        "再见 produced correctly from memory — zai_jian character confusion resolved",
+        "第一 ordinal pattern used correctly without prompt"
+      ],
+      "focus_next_session": [
+        "没有 in connected speech — recall dropped in dialogue",
+        "Adjective predicate rule: no 是 before adjectives",
+        "不太 vs 不很 negation pattern"
+      ],
+      "notes": "Session 4. Multiple recurring errors resolved this session (三/五 swap, 是/水, 再见). New grammar: adjective predicates (no 是), 不太 negation, question/follow-up particles. Learner cannot type hanzi — pinyin accepted throughout. Character knowledge is receptive (can read) but not yet productive (cannot type).",
+      "achievements_earned": [],
+      "streak_day": 1
     }
   ],
   "milestones": [
@@ -132,6 +169,11 @@
       "date": "2026-06-26",
       "milestone": "Produced complete self-introduction in hanzi from memory",
       "session_id": "session-003"
+    },
+    {
+      "date": "2026-06-26",
+      "milestone": "Resolved shì vs shuǐ confusion — no errors in 3 consecutive reviews",
+      "session_id": "session-004"
     }
   ]
 }

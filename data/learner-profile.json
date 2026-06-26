@@ -15,8 +15,8 @@
   "profile_created": "2026-06-25",
   "last_updated": "2026-06-26",
   "current_streak_days": 1,
-  "total_sessions": 3,
-  "total_study_minutes": 50,
+  "total_sessions": 4,
+  "total_study_minutes": 70,
   "skills": {
     "writing": {
       "current_level": 1,
@@ -32,9 +32,9 @@
     },
     "vocabulary": {
       "current_level": 1,
-      "confidence": 56,
+      "confidence": 61,
       "last_practiced": "2026-06-26",
-      "total_practice_time": 35
+      "total_practice_time": 55
     },
     "reading": {
       "current_level": 1,
@@ -121,6 +121,12 @@
       "name": "Produced complete self-introduction in hanzi from memory",
       "earned_date": "2026-06-26",
       "description": "Produced complete self-introduction in hanzi from memory"
+    },
+    {
+      "id": "session_session-004_0_resolved_sh_vs_shu_confusion",
+      "name": "Resolved shì vs shuǐ confusion — no errors in 3 consecutive reviews",
+      "earned_date": "2026-06-26",
+      "description": "Resolved shì vs shuǐ confusion — no errors in 3 consecutive reviews"
     }
   ],
   "preferences": {
