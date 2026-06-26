@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "last_updated": "2026-06-25",
+    "last_updated": "2026-06-26",
     "language": "Mandarin"
   },
   "skills": {
     "writing": {
       "mastery_level": 1,
-      "confidence_score": 0.5,
-      "total_practice_time": 5,
-      "last_practiced": "2026-06-25",
-      "practice_count": 2,
-      "avg_accuracy": 0.5
+      "confidence_score": 0.75,
+      "total_practice_time": 7,
+      "last_practiced": "2026-06-26",
+      "practice_count": 3,
+      "avg_accuracy": 0.75
     },
     "speaking": {
       "mastery_level": 1,
@@ -21,20 +21,20 @@
       "avg_accuracy": 1.0
     },
     "vocabulary": {
-      "mastery_level": 1,
-      "confidence_score": 0.955,
-      "total_practice_time": 15,
-      "last_practiced": "2026-06-25",
-      "practice_count": 14,
-      "avg_accuracy": 0.955
+      "mastery_level": 3,
+      "confidence_score": 0.841,
+      "total_practice_time": 74,
+      "last_practiced": "2026-06-26",
+      "practice_count": 62,
+      "avg_accuracy": 0.841
     },
     "reading": {
-      "mastery_level": 1,
-      "confidence_score": 0.5,
-      "total_practice_time": 5,
-      "last_practiced": "2026-06-25",
-      "practice_count": 2,
-      "avg_accuracy": 0.5
+      "mastery_level": 2,
+      "confidence_score": 0.791,
+      "total_practice_time": 14,
+      "last_practiced": "2026-06-26",
+      "practice_count": 9,
+      "avg_accuracy": 0.791
     },
     "listening": {
       "mastery_level": 0,

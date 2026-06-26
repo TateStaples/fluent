@@ -2,7 +2,7 @@
   "metadata": {
     "language": "Mandarin",
     "learner_name": "Tate",
-    "total_sessions": 2
+    "total_sessions": 6
   },
   "sessions": [
     {
@@ -76,6 +76,127 @@
       "notes": "Session 2. Learner switched to hanzi answers — good initiative. Three number errors (san/wu/shi_10) but self-corrected. Introduced ordinal 第 as new grammar pattern. Hanzi recognition strong for characters seen. Tone differentiation remains a text-mode challenge.",
       "achievements_earned": [],
       "streak_day": 0
+    },
+    {
+      "session_id": "session-003",
+      "date": "2026-06-25",
+      "duration_minutes": 15,
+      "skills_practiced": [
+        "vocabulary",
+        "reading"
+      ],
+      "command_used": "/fluent-vocab",
+      "exercises_completed": 13,
+      "accuracy": 0.846,
+      "score_breakdown": {
+        "vocabulary": 0.9,
+        "reading": 0.667
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "First session answering in hanzi characters",
+        "Recognized and produced 13 hanzi characters"
+      ],
+      "focus_next_session": [
+        "认识你很高兴 full phrase",
+        "没有 negation",
+        "adjective predicate pattern"
+      ],
+      "notes": "",
+      "achievements_earned": [],
+      "streak_day": 0
+    },
+    {
+      "session_id": "session-004",
+      "date": "2026-06-25",
+      "duration_minutes": 15,
+      "skills_practiced": [
+        "vocabulary",
+        "reading"
+      ],
+      "command_used": "/fluent-vocab",
+      "exercises_completed": 13,
+      "accuracy": 0.846,
+      "score_breakdown": {
+        "vocabulary": 0.818,
+        "reading": 1.0
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "没有 used correctly",
+        "我在Duke University工作 produced correctly",
+        "对不起 fluent"
+      ],
+      "focus_next_session": [
+        "认识你很高兴 no-hint recall",
+        "不太 negation pattern",
+        "adjective predicate reinforcement"
+      ],
+      "notes": "",
+      "achievements_earned": [],
+      "streak_day": 0
+    },
+    {
+      "session_id": "session-005",
+      "date": "2026-06-26",
+      "duration_minutes": 20,
+      "skills_practiced": [
+        "vocabulary",
+        "reading",
+        "writing"
+      ],
+      "command_used": "/fluent-vocab",
+      "exercises_completed": 15,
+      "accuracy": 0.8,
+      "score_breakdown": {
+        "vocabulary": 0.75,
+        "reading": 1.0,
+        "writing": 1.0
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "三 and 五 correct first try",
+        "Word order locked in after one correction",
+        "谢谢 in hanzi immediately"
+      ],
+      "focus_next_session": [
+        "认识你很高兴 no-hint",
+        "高兴 standalone",
+        "今天/明天 distinction",
+        "integration sentences"
+      ],
+      "notes": "",
+      "achievements_earned": [],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-006",
+      "date": "2026-06-26",
+      "duration_minutes": 20,
+      "skills_practiced": [
+        "vocabulary"
+      ],
+      "command_used": "/fluent-vocab",
+      "exercises_completed": 15,
+      "accuracy": 0.667,
+      "score_breakdown": {
+        "vocabulary": 0.667
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "昨天 word order correct first try",
+        "他们明天工作 perfect",
+        "三 correct again"
+      ],
+      "focus_next_session": [
+        "再见 — drill until automatic",
+        "认识你很高兴 no-hint",
+        "不太 negation",
+        "时间词 trio"
+      ],
+      "notes": "",
+      "achievements_earned": [],
+      "streak_day": 1
     }
   ],
   "milestones": [

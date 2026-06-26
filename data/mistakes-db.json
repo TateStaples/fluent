@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-06-25",
-    "total_patterns_tracked": 5,
+    "last_updated": "2026-06-26",
+    "total_patterns_tracked": 13,
     "language": "Mandarin"
   },
   "error_patterns": {
@@ -119,6 +119,202 @@
         }
       ],
       "notes": "Missing ordinal prefix 第 (dì). New pattern not previously taught — introduced this session."
+    },
+    "renshi_character_confusion": {
+      "category": "other",
+      "subcategory": "",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-06-25",
+      "last_occurred": "2026-06-25",
+      "next_review": "2026-06-26",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "",
+          "correct": "认识",
+          "context": "",
+          "date": "2026-06-25"
+        }
+      ],
+      "notes": "说 (speak) substituted for 识 (know) — both share 讠radical"
+    },
+    "shi_before_adjective": {
+      "category": "other",
+      "subcategory": "",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-06-25",
+      "last_occurred": "2026-06-25",
+      "next_review": "2026-06-26",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "",
+          "correct": "我很好",
+          "context": "",
+          "date": "2026-06-25"
+        }
+      ],
+      "notes": "Used 是 before adjective — Mandarin adjective predicates don't use 是"
+    },
+    "bu_tai_pattern": {
+      "category": "other",
+      "subcategory": "",
+      "description": "",
+      "severity": "minor",
+      "frequency": 2,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-06-26",
+      "last_occurred": "2026-06-26",
+      "next_review": "2026-06-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 2,
+      "examples": [
+        {
+          "incorrect": "",
+          "correct": "他不太好",
+          "context": "",
+          "date": "2026-06-25"
+        },
+        {
+          "incorrect": "",
+          "correct": "不太",
+          "context": "",
+          "date": "2026-06-26"
+        }
+      ],
+      "notes": "Inverted negation pattern"
+    },
+    "jintian_mingtian_confusion": {
+      "category": "other",
+      "subcategory": "",
+      "description": "",
+      "severity": "minor",
+      "frequency": 2,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-06-26",
+      "last_occurred": "2026-06-26",
+      "next_review": "2026-06-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 2,
+      "examples": [
+        {
+          "incorrect": "",
+          "correct": "明天",
+          "context": "",
+          "date": "2026-06-26"
+        },
+        {
+          "incorrect": "",
+          "correct": "明天",
+          "context": "",
+          "date": "2026-06-26"
+        }
+      ],
+      "notes": "Wrote 没 instead of 明天"
+    },
+    "gongzuo_incomplete": {
+      "category": "other",
+      "subcategory": "",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-06-26",
+      "last_occurred": "2026-06-26",
+      "next_review": "2026-06-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "",
+          "correct": "工作",
+          "context": "",
+          "date": "2026-06-26"
+        }
+      ],
+      "notes": "Dropped second character"
+    },
+    "gaoxing_character_confusion": {
+      "category": "other",
+      "subcategory": "",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-06-26",
+      "last_occurred": "2026-06-26",
+      "next_review": "2026-06-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "",
+          "correct": "高兴",
+          "context": "",
+          "date": "2026-06-26"
+        }
+      ],
+      "notes": "过 substituted for 高"
+    },
+    "renshi_gaoxing_recall": {
+      "category": "other",
+      "subcategory": "",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-06-26",
+      "last_occurred": "2026-06-26",
+      "next_review": "2026-06-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "",
+          "correct": "认识你很高兴",
+          "context": "",
+          "date": "2026-06-26"
+        }
+      ],
+      "notes": "好 substituted for 高兴"
+    },
+    "zaijian_recall": {
+      "category": "other",
+      "subcategory": "",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-06-26",
+      "last_occurred": "2026-06-26",
+      "next_review": "2026-06-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "",
+          "correct": "再见",
+          "context": "",
+          "date": "2026-06-26"
+        }
+      ],
+      "notes": "Blanked on goodbye"
     }
   }
 }

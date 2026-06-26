@@ -13,16 +13,16 @@
     "motivation": "work"
   },
   "profile_created": "2026-06-25",
-  "last_updated": "2026-06-25",
-  "current_streak_days": 0,
-  "total_sessions": 2,
-  "total_study_minutes": 30,
+  "last_updated": "2026-06-26",
+  "current_streak_days": 1,
+  "total_sessions": 6,
+  "total_study_minutes": 100,
   "skills": {
     "writing": {
       "current_level": 1,
-      "confidence": 15,
-      "last_practiced": "2026-06-25",
-      "total_practice_time": 5
+      "confidence": 40,
+      "last_practiced": "2026-06-26",
+      "total_practice_time": 7
     },
     "speaking": {
       "current_level": 1,
@@ -32,15 +32,15 @@
     },
     "vocabulary": {
       "current_level": 1,
-      "confidence": 48,
-      "last_practiced": "2026-06-25",
-      "total_practice_time": 15
+      "confidence": 68,
+      "last_practiced": "2026-06-26",
+      "total_practice_time": 74
     },
     "reading": {
       "current_level": 1,
-      "confidence": 15,
-      "last_practiced": "2026-06-25",
-      "total_practice_time": 5
+      "confidence": 66,
+      "last_practiced": "2026-06-26",
+      "total_practice_time": 14
     },
     "listening": {
       "current_level": 0,
