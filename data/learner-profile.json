@@ -127,5 +127,19 @@
     "feedback_style": "immediate_with_explanation",
     "gamification_enabled": false,
     "use_emojis": false
+  },
+  "teaching_instructions": {
+    "vocabulary_introduction": {
+      "always_include": [
+        "hanzi character(s)",
+        "pinyin with tone marks",
+        "literal/directional translation for multi-character words (e.g. 高兴 = high + spirit = happy)",
+        "character breakdown: subcomponents, radical, and mnemonic imagery or historical origin for each character"
+      ],
+      "format_example": "再见 (zàijiàn) — 再 again + 见 see/meet → 'see you again'. 再: a second stroke added above 一, suggesting repetition. 见: eye (目) with legs — someone walking into view."
+    },
+    "scoring_feedback": {
+      "always_append_after_score": "pinyin pronunciation of the word or phrase just answered, so learner keeps pronunciation top of mind even in text-only sessions"
+    }
   }
 }
