@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-06-25",
+    "last_updated": "2026-06-26",
     "language": "Mandarin"
   },
   "skills": {
@@ -21,12 +21,12 @@
       "avg_accuracy": 1.0
     },
     "vocabulary": {
-      "mastery_level": 1,
-      "confidence_score": 0.955,
-      "total_practice_time": 15,
-      "last_practiced": "2026-06-25",
-      "practice_count": 14,
-      "avg_accuracy": 0.955
+      "mastery_level": 2,
+      "confidence_score": 0.881,
+      "total_practice_time": 35,
+      "last_practiced": "2026-06-26",
+      "practice_count": 29,
+      "avg_accuracy": 0.881
     },
     "reading": {
       "mastery_level": 1,

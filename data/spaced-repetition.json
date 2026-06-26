@@ -1,34 +1,22 @@
 {
   "metadata": {
     "algorithm": "SM-2",
-    "last_updated": "2026-06-25",
-    "total_items_tracked": 28,
+    "last_updated": "2026-06-26",
+    "total_items_tracked": 33,
     "language": "Mandarin"
   },
   "review_queue": {
-    "today": [],
-    "tomorrow": [
-      "ni_hao",
-      "xie_xie",
-      "dui_bu_qi",
-      "zai_jian",
+    "today": [
       "wo",
       "jiao",
-      "shi",
-      "meiguoren",
-      "wo_zai_gongzuo",
-      "renshi_ni_hen_gaoxing",
       "shi_vs_shui_confusion",
       "yi",
       "er",
-      "san",
       "si",
-      "wu",
       "liu",
       "qi",
       "ba",
       "jiu",
-      "shi_10",
       "ni",
       "ta",
       "di",
@@ -36,6 +24,24 @@
       "shi_tone_confusion",
       "wu_liu_swap",
       "ordinal_di_missing"
+    ],
+    "tomorrow": [
+      "ni_hao",
+      "xie_xie",
+      "dui_bu_qi",
+      "zai_jian",
+      "shi",
+      "meiguoren",
+      "wo_zai_gongzuo",
+      "renshi_ni_hen_gaoxing",
+      "san",
+      "wu",
+      "shi_10",
+      "gongzuo",
+      "dui_bu_dui",
+      "bushou_speech",
+      "renshi_character_confusion",
+      "zai_jian_character_confusion"
     ],
     "this_week": [],
     "later": []
@@ -49,17 +55,24 @@
       "category": "greetings",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 4,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 5,
+          "score": 0
+        }
+      ]
     },
     "xie_xie": {
       "id": "xie_xie",
@@ -69,17 +82,24 @@
       "category": "greetings",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 4,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 5,
+          "score": 0
+        }
+      ]
     },
     "dui_bu_qi": {
       "id": "dui_bu_qi",
@@ -89,17 +109,24 @@
       "category": "greetings",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.36,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 4,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 3,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 3,
+          "score": 0
+        }
+      ]
     },
     "zai_jian": {
       "id": "zai_jian",
@@ -109,17 +136,24 @@
       "category": "greetings",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 2.18,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 4,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 2,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 2,
+          "score": 0
+        }
+      ]
     },
     "wo": {
       "id": "wo",
@@ -169,17 +203,24 @@
       "category": "verbs",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 3,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 5,
+          "score": 0
+        }
+      ]
     },
     "meiguoren": {
       "id": "meiguoren",
@@ -189,17 +230,24 @@
       "category": "nationalities",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 4,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "medium"
+      "total_reviews": 1,
+      "priority": "medium",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 5,
+          "score": 0
+        }
+      ]
     },
     "wo_zai_gongzuo": {
       "id": "wo_zai_gongzuo",
@@ -209,17 +257,24 @@
       "category": "professional",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
+      "last_reviewed": "2026-06-26",
       "last_quality": 4,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 4,
+          "score": 0
+        }
+      ]
     },
     "renshi_ni_hen_gaoxing": {
       "id": "renshi_ni_hen_gaoxing",
@@ -229,17 +284,24 @@
       "category": "professional",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 2.18,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 4,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 2,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 2,
+          "score": 0
+        }
+      ]
     },
     "shi_vs_shui_confusion": {
       "id": "shi_vs_shui_confusion",
@@ -309,17 +371,24 @@
       "category": "numbers",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 1.96,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 3,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 1,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 1,
+          "score": 0
+        }
+      ]
     },
     "si": {
       "id": "si",
@@ -349,17 +418,24 @@
       "category": "numbers",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 1.96,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 3,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 1,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 1,
+          "score": 0
+        }
+      ]
     },
     "liu": {
       "id": "liu",
@@ -449,17 +525,24 @@
       "category": "numbers",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 3,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 4,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 4,
+          "score": 0
+        }
+      ]
     },
     "ni": {
       "id": "ni",
@@ -596,6 +679,106 @@
       "consecutive_correct": 0,
       "consecutive_incorrect": 1,
       "last_reviewed": "2026-06-25",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "gongzuo": {
+      "id": "gongzuo",
+      "type": "vocabulary",
+      "content": "工作 (gōngzuò)",
+      "answer": "to work",
+      "category": "verbs",
+      "difficulty": "A1",
+      "created_date": "2026-06-26",
+      "due_date": "2026-06-27",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "dui_bu_dui": {
+      "id": "dui_bu_dui",
+      "type": "vocabulary",
+      "content": "对不对？(duì bu duì)",
+      "answer": "right or not? / isn't that so?",
+      "category": "grammar_patterns",
+      "difficulty": "A1",
+      "created_date": "2026-06-26",
+      "due_date": "2026-06-27",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 4,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "medium"
+    },
+    "bushou_speech": {
+      "id": "bushou_speech",
+      "type": "vocabulary",
+      "content": "讠(yán radical)",
+      "answer": "speech/language radical — appears in speech-related characters",
+      "category": "radicals",
+      "difficulty": "A1",
+      "created_date": "2026-06-26",
+      "due_date": "2026-06-27",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 3,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "medium"
+    },
+    "renshi_character_confusion": {
+      "id": "renshi_character_confusion",
+      "type": "error_pattern",
+      "content": "认说你很高兴",
+      "answer": "认识你很高兴",
+      "category": "vocabulary",
+      "difficulty": "",
+      "created_date": "2026-06-26",
+      "due_date": "2026-06-27",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "zai_jian_character_confusion": {
+      "id": "zai_jian_character_confusion",
+      "type": "error_pattern",
+      "content": "在旧爱",
+      "answer": "再见",
+      "category": "vocabulary",
+      "difficulty": "",
+      "created_date": "2026-06-26",
+      "due_date": "2026-06-27",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-06-26",
       "last_quality": 2,
       "mastery_level": 0,
       "total_reviews": 0,

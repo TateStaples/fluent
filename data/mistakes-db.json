@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-06-25",
-    "total_patterns_tracked": 5,
+    "last_updated": "2026-06-26",
+    "total_patterns_tracked": 7,
     "language": "Mandarin"
   },
   "error_patterns": {
@@ -33,23 +33,29 @@
       "subcategory": "pronunciation_pinyin",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.3,
-      "last_seen": "2026-06-25",
-      "last_occurred": "2026-06-25",
-      "next_review": "2026-06-26",
+      "last_seen": "2026-06-26",
+      "last_occurred": "2026-06-26",
+      "next_review": "2026-06-27",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "sen",
           "correct": "sān",
           "context": "numbers 1-10 recall",
           "date": "2026-06-25"
+        },
+        {
+          "incorrect": "sen",
+          "correct": "sān / 三",
+          "context": "number recall",
+          "date": "2026-06-26"
         }
       ],
-      "notes": "Wrote 'sen' instead of 'san'. Missing the 'a' vowel. Self-corrected on re-drill."
+      "notes": "Third occurrence of sen instead of sān. Recurring error — needs dedicated drill."
     },
     "shi_tone_confusion": {
       "category": "vocabulary",
@@ -79,23 +85,29 @@
       "subcategory": "number_recall",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 2,
       "mastery_level": 0,
       "difficulty_score": 0.3,
-      "last_seen": "2026-06-25",
-      "last_occurred": "2026-06-25",
-      "next_review": "2026-06-26",
+      "last_seen": "2026-06-26",
+      "last_occurred": "2026-06-26",
+      "next_review": "2026-06-27",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 2,
       "examples": [
         {
           "incorrect": "六",
           "correct": "五",
           "context": "number 5 recall",
           "date": "2026-06-25"
+        },
+        {
+          "incorrect": "六",
+          "correct": "五",
+          "context": "number 5 recall",
+          "date": "2026-06-26"
         }
       ],
-      "notes": "Answered 6 (六) when asked for 5 (五). Self-corrected on re-drill."
+      "notes": "Second occurrence of 五/六 swap."
     },
     "ordinal_di_missing": {
       "category": "grammar",
@@ -119,6 +131,52 @@
         }
       ],
       "notes": "Missing ordinal prefix 第 (dì). New pattern not previously taught — introduced this session."
+    },
+    "renshi_character_confusion": {
+      "category": "vocabulary",
+      "subcategory": "character_recognition",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.6,
+      "last_seen": "2026-06-26",
+      "last_occurred": "2026-06-26",
+      "next_review": "2026-06-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "认说你很高兴",
+          "correct": "认识你很高兴",
+          "context": "nice to meet you — production",
+          "date": "2026-06-26"
+        }
+      ],
+      "notes": "Improvement from last attempt (人说 → 认说). Got 认 right, still confusing 识 with 说. Both use 讠radical."
+    },
+    "zai_jian_character_confusion": {
+      "category": "vocabulary",
+      "subcategory": "character_recall",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-06-26",
+      "last_occurred": "2026-06-26",
+      "next_review": "2026-06-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "在旧爱",
+          "correct": "再见",
+          "context": "goodbye production from memory",
+          "date": "2026-06-26"
+        }
+      ],
+      "notes": "Used 在 (at/in) instead of 再 (again). Homophone trap: both zài. Self-corrected on re-drill."
     }
   }
 }

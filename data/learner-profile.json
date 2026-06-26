@@ -13,10 +13,10 @@
     "motivation": "work"
   },
   "profile_created": "2026-06-25",
-  "last_updated": "2026-06-25",
-  "current_streak_days": 0,
-  "total_sessions": 2,
-  "total_study_minutes": 30,
+  "last_updated": "2026-06-26",
+  "current_streak_days": 1,
+  "total_sessions": 3,
+  "total_study_minutes": 50,
   "skills": {
     "writing": {
       "current_level": 1,
@@ -32,9 +32,9 @@
     },
     "vocabulary": {
       "current_level": 1,
-      "confidence": 48,
-      "last_practiced": "2026-06-25",
-      "total_practice_time": 15
+      "confidence": 56,
+      "last_practiced": "2026-06-26",
+      "total_practice_time": 35
     },
     "reading": {
       "current_level": 1,
@@ -115,6 +115,12 @@
       "name": "First hanzi answers produced in session",
       "earned_date": "2026-06-25",
       "description": "First hanzi answers produced in session"
+    },
+    {
+      "id": "session_session-003_0_produced_complete_self_introdu",
+      "name": "Produced complete self-introduction in hanzi from memory",
+      "earned_date": "2026-06-26",
+      "description": "Produced complete self-introduction in hanzi from memory"
     }
   ],
   "preferences": {
