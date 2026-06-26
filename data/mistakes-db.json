@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "last_updated": "2026-06-25",
+    "total_patterns_tracked": 5,
+    "language": "Mandarin"
+  },
+  "error_patterns": {
+    "shi_vs_shui_confusion": {
+      "category": "vocabulary",
+      "subcategory": "linking_verb",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.3,
+      "last_seen": "2026-06-25",
+      "last_occurred": "2026-06-25",
+      "next_review": "2026-06-26",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "wǒ shui měiguórén",
+          "correct": "wǒ shì měiguórén",
+          "context": "self-introduction integration exercise",
+          "date": "2026-06-25"
+        }
+      ],
+      "notes": "Confused shui (water) with shi (to be). Self-corrected on re-drill."
+    },
+    "san_pronunciation": {
+      "category": "vocabulary",
+      "subcategory": "pronunciation_pinyin",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.3,
+      "last_seen": "2026-06-25",
+      "last_occurred": "2026-06-25",
+      "next_review": "2026-06-26",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "sen",
+          "correct": "sān",
+          "context": "numbers 1-10 recall",
+          "date": "2026-06-25"
+        }
+      ],
+      "notes": "Wrote 'sen' instead of 'san'. Missing the 'a' vowel. Self-corrected on re-drill."
+    },
+    "shi_tone_confusion": {
+      "category": "vocabulary",
+      "subcategory": "tone_differentiation",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-06-25",
+      "last_occurred": "2026-06-25",
+      "next_review": "2026-06-26",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "shī (1st tone)",
+          "correct": "shí (2nd tone) / 十",
+          "context": "number 10 recall",
+          "date": "2026-06-25"
+        }
+      ],
+      "notes": "Used 1st tone (poem/teacher) instead of 2nd tone (ten). Led to useful teaching moment on shī/shí/shì/shuǐ distinctions."
+    },
+    "wu_liu_swap": {
+      "category": "vocabulary",
+      "subcategory": "number_recall",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.3,
+      "last_seen": "2026-06-25",
+      "last_occurred": "2026-06-25",
+      "next_review": "2026-06-26",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "六",
+          "correct": "五",
+          "context": "number 5 recall",
+          "date": "2026-06-25"
+        }
+      ],
+      "notes": "Answered 6 (六) when asked for 5 (五). Self-corrected on re-drill."
+    },
+    "ordinal_di_missing": {
+      "category": "grammar",
+      "subcategory": "ordinal_numbers",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-06-25",
+      "last_occurred": "2026-06-25",
+      "next_review": "2026-06-26",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "你是一",
+          "correct": "你是第一",
+          "context": "integration sentence: you are number one",
+          "date": "2026-06-25"
+        }
+      ],
+      "notes": "Missing ordinal prefix 第 (dì). New pattern not previously taught — introduced this session."
+    }
+  }
+}

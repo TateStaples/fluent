@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "language": "Mandarin",
+    "learner_name": "Tate",
+    "total_sessions": 2
+  },
+  "sessions": [
+    {
+      "session_id": "session-001",
+      "date": "2026-06-25",
+      "duration_minutes": 15,
+      "skills_practiced": [
+        "vocabulary",
+        "speaking",
+        "writing"
+      ],
+      "command_used": "/fluent-learn",
+      "exercises_completed": 7,
+      "accuracy": 0.857,
+      "score_breakdown": {
+        "vocabulary": 1.0,
+        "speaking": 1.0,
+        "writing": 0.5
+      },
+      "topics_covered": [
+        "greetings",
+        "self-introduction",
+        "tone_system_concepts",
+        "linking_verb_shi"
+      ],
+      "breakthroughs": [
+        "Completed first full self-introduction in Mandarin",
+        "Self-corrected shì vs shui error on immediate re-drill"
+      ],
+      "focus_next_session": [
+        "Numbers 1-10",
+        "Pronouns: wǒ / nǐ / tā",
+        "Tone practice with audio resource"
+      ],
+      "notes": "First session. Academic style learner. Skipped tone drills — text-only format unsuitable for audio-dependent tone practice. Strong pattern matching and sentence construction. One vocabulary error (shui for shì) self-corrected quickly.",
+      "achievements_earned": [],
+      "streak_day": 0
+    },
+    {
+      "session_id": "session-002",
+      "date": "2026-06-25",
+      "duration_minutes": 15,
+      "skills_practiced": [
+        "vocabulary",
+        "reading"
+      ],
+      "command_used": "/fluent-learn",
+      "exercises_completed": 13,
+      "accuracy": 0.846,
+      "score_breakdown": {
+        "vocabulary": 0.909,
+        "reading": 0.5
+      },
+      "topics_covered": [
+        "numbers_1_10",
+        "pronouns",
+        "ordinal_numbers",
+        "hanzi_recognition",
+        "tone_differentiation"
+      ],
+      "breakthroughs": [
+        "First session answering in hanzi characters",
+        "Recognized and produced 13 hanzi characters",
+        "Correctly used 我是美国人 from memory without prompt"
+      ],
+      "focus_next_session": [
+        "Review numbers — san (3), wu (5), shi (10) had errors",
+        "Ordinal numbers: 第一、第二、第三",
+        "Expand pronouns: wǒmen (we), nǐmen (you plural), tāmen (they)"
+      ],
+      "notes": "Session 2. Learner switched to hanzi answers — good initiative. Three number errors (san/wu/shi_10) but self-corrected. Introduced ordinal 第 as new grammar pattern. Hanzi recognition strong for characters seen. Tone differentiation remains a text-mode challenge.",
+      "achievements_earned": [],
+      "streak_day": 0
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-06-25",
+      "milestone": "Profile created — beginning Mandarin journey from A1",
+      "session_id": null
+    },
+    {
+      "date": "2026-06-25",
+      "milestone": "Completed first Mandarin learning session",
+      "session_id": "session-001"
+    },
+    {
+      "date": "2026-06-25",
+      "milestone": "First hanzi answers produced in session",
+      "session_id": "session-002"
+    }
+  ]
+}

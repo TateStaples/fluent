@@ -1,0 +1,131 @@
+{
+  "learner": {
+    "name": "Tate",
+    "native_language": "English",
+    "other_languages": [
+      "Spanish (some)"
+    ],
+    "target_language": "Mandarin",
+    "current_level": "A1",
+    "target_level": "C1",
+    "daily_goal_minutes": 30,
+    "learning_style": "academic",
+    "motivation": "work"
+  },
+  "profile_created": "2026-06-25",
+  "last_updated": "2026-06-25",
+  "current_streak_days": 0,
+  "total_sessions": 2,
+  "total_study_minutes": 30,
+  "skills": {
+    "writing": {
+      "current_level": 1,
+      "confidence": 15,
+      "last_practiced": "2026-06-25",
+      "total_practice_time": 5
+    },
+    "speaking": {
+      "current_level": 1,
+      "confidence": 30,
+      "last_practiced": "2026-06-25",
+      "total_practice_time": 5
+    },
+    "vocabulary": {
+      "current_level": 1,
+      "confidence": 48,
+      "last_practiced": "2026-06-25",
+      "total_practice_time": 15
+    },
+    "reading": {
+      "current_level": 1,
+      "confidence": 15,
+      "last_practiced": "2026-06-25",
+      "total_practice_time": 5
+    },
+    "listening": {
+      "current_level": 0,
+      "confidence": 0,
+      "last_practiced": null,
+      "total_practice_time": 0
+    }
+  },
+  "focus_areas": [
+    "hanzi_reading"
+  ],
+  "script_goals": {
+    "approach": "parallel_pinyin_hanzi",
+    "description": "Learn pinyin and hanzi simultaneously from the start, gradually shifting toward reading hanzi (or pinyin) independently without the other as a crutch. Answers accepted in either pinyin or hanzi — typed input makes requiring both impractical.",
+    "answer_format": "either_pinyin_or_hanzi",
+    "phases": [
+      {
+        "phase": 1,
+        "label": "Foundations",
+        "levels": [
+          "A1"
+        ],
+        "focus": "All vocabulary presented with both pinyin and hanzi side by side"
+      },
+      {
+        "phase": 2,
+        "label": "Recognition",
+        "levels": [
+          "A2"
+        ],
+        "focus": "Recognize common hanzi (100-300 chars); pinyin still available as support"
+      },
+      {
+        "phase": 3,
+        "label": "Transition",
+        "levels": [
+          "B1"
+        ],
+        "focus": "Hanzi-first exercises; pinyin shown only on request or after errors"
+      },
+      {
+        "phase": 4,
+        "label": "Independence",
+        "levels": [
+          "B2",
+          "C1"
+        ],
+        "focus": "Read hanzi without pinyin scaffold; pinyin only for new vocabulary"
+      }
+    ],
+    "current_phase": 1,
+    "hanzi_known": 0,
+    "target_hanzi_A2": 300,
+    "target_hanzi_B1": 600,
+    "target_hanzi_B2": 1500
+  },
+  "achievements": [
+    {
+      "id": "profile_created",
+      "name": "Getting Started",
+      "earned_date": "2026-06-25",
+      "description": "Created your learning profile"
+    },
+    {
+      "id": "session_session-001_0_completed_first_mandarin_learn",
+      "name": "Completed first Mandarin learning session",
+      "earned_date": "2026-06-25",
+      "description": "Completed first Mandarin learning session"
+    },
+    {
+      "id": "session_session-002_0_first_hanzi_answers_produced_i",
+      "name": "First hanzi answers produced in session",
+      "earned_date": "2026-06-25",
+      "description": "First hanzi answers produced in session"
+    }
+  ],
+  "preferences": {
+    "difficulty_preference": "adaptive",
+    "exercise_types_preferred": [
+      "writing",
+      "grammar_drills",
+      "vocabulary"
+    ],
+    "feedback_style": "immediate_with_explanation",
+    "gamification_enabled": false,
+    "use_emojis": false
+  }
+}

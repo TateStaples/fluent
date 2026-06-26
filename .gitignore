@@ -1,5 +1,5 @@
-# Personal learning data - DO NOT commit
-/data/*.json
+# Personal learning data - uncommit the line below to exclude
+# /data/*.json
 /data/*.json.backup-*
 /results/*.md
 # Except the README files which explain the structure
