@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-06-26",
-    "total_patterns_tracked": 11,
+    "last_updated": "2026-06-25",
+    "total_patterns_tracked": 5,
     "language": "Mandarin"
   },
   "error_patterns": {
@@ -33,29 +33,23 @@
       "subcategory": "pronunciation_pinyin",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 1,
       "mastery_level": 0,
       "difficulty_score": 0.3,
-      "last_seen": "2026-06-26",
-      "last_occurred": "2026-06-26",
-      "next_review": "2026-06-27",
+      "last_seen": "2026-06-25",
+      "last_occurred": "2026-06-25",
+      "next_review": "2026-06-26",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 1,
       "examples": [
         {
           "incorrect": "sen",
           "correct": "sān",
           "context": "numbers 1-10 recall",
           "date": "2026-06-25"
-        },
-        {
-          "incorrect": "sen",
-          "correct": "sān / 三",
-          "context": "number recall",
-          "date": "2026-06-26"
         }
       ],
-      "notes": "Third occurrence of sen instead of sān. Recurring error — needs dedicated drill."
+      "notes": "Wrote 'sen' instead of 'san'. Missing the 'a' vowel. Self-corrected on re-drill."
     },
     "shi_tone_confusion": {
       "category": "vocabulary",
@@ -85,29 +79,23 @@
       "subcategory": "number_recall",
       "description": "",
       "severity": "moderate",
-      "frequency": 2,
+      "frequency": 1,
       "mastery_level": 0,
       "difficulty_score": 0.3,
-      "last_seen": "2026-06-26",
-      "last_occurred": "2026-06-26",
-      "next_review": "2026-06-27",
+      "last_seen": "2026-06-25",
+      "last_occurred": "2026-06-25",
+      "next_review": "2026-06-26",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 1,
       "examples": [
         {
           "incorrect": "六",
           "correct": "五",
           "context": "number 5 recall",
           "date": "2026-06-25"
-        },
-        {
-          "incorrect": "六",
-          "correct": "五",
-          "context": "number 5 recall",
-          "date": "2026-06-26"
         }
       ],
-      "notes": "Second occurrence of 五/六 swap."
+      "notes": "Answered 6 (六) when asked for 5 (五). Self-corrected on re-drill."
     },
     "ordinal_di_missing": {
       "category": "grammar",
@@ -131,150 +119,6 @@
         }
       ],
       "notes": "Missing ordinal prefix 第 (dì). New pattern not previously taught — introduced this session."
-    },
-    "renshi_character_confusion": {
-      "category": "vocabulary",
-      "subcategory": "character_recognition",
-      "description": "",
-      "severity": "moderate",
-      "frequency": 2,
-      "mastery_level": 0,
-      "difficulty_score": 0.6,
-      "last_seen": "2026-06-26",
-      "last_occurred": "2026-06-26",
-      "next_review": "2026-06-27",
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
-      "examples": [
-        {
-          "incorrect": "认说你很高兴",
-          "correct": "认识你很高兴",
-          "context": "nice to meet you — production",
-          "date": "2026-06-26"
-        },
-        {
-          "incorrect": "认shí",
-          "correct": "认识",
-          "context": "produce verb for to know/meet",
-          "date": "2026-06-26"
-        }
-      ],
-      "notes": "Got 认 correct (improvement). Still writing 识 in pinyin — character not locked in. Cannot type hanzi on keyboard."
-    },
-    "zai_jian_character_confusion": {
-      "category": "vocabulary",
-      "subcategory": "character_recall",
-      "description": "",
-      "severity": "moderate",
-      "frequency": 1,
-      "mastery_level": 0,
-      "difficulty_score": 0.5,
-      "last_seen": "2026-06-26",
-      "last_occurred": "2026-06-26",
-      "next_review": "2026-06-27",
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "examples": [
-        {
-          "incorrect": "在旧爱",
-          "correct": "再见",
-          "context": "goodbye production from memory",
-          "date": "2026-06-26"
-        }
-      ],
-      "notes": "Used 在 (at/in) instead of 再 (again). Homophone trap: both zài. Self-corrected on re-drill."
-    },
-    "shi_before_adjective": {
-      "category": "grammar",
-      "subcategory": "adjective_predicate",
-      "description": "",
-      "severity": "moderate",
-      "frequency": 1,
-      "mastery_level": 0,
-      "difficulty_score": 0.5,
-      "last_seen": "2026-06-26",
-      "last_occurred": "2026-06-26",
-      "next_review": "2026-06-27",
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "examples": [
-        {
-          "incorrect": "我是很好",
-          "correct": "我很好",
-          "context": "I am very good",
-          "date": "2026-06-26"
-        }
-      ],
-      "notes": "Added 是 before adjective — common English-speaker error. 是 links nouns, not adjectives. New pattern introduced this session."
-    },
-    "bu_hen_negation": {
-      "category": "grammar",
-      "subcategory": "adjective_negation",
-      "description": "",
-      "severity": "moderate",
-      "frequency": 1,
-      "mastery_level": 0,
-      "difficulty_score": 0.5,
-      "last_seen": "2026-06-26",
-      "last_occurred": "2026-06-26",
-      "next_review": "2026-06-27",
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "examples": [
-        {
-          "incorrect": "他不很好",
-          "correct": "他不太好",
-          "context": "he is not very good",
-          "date": "2026-06-26"
-        }
-      ],
-      "notes": "Placed 不 before 很 instead of using 不太. Natural negation pattern is 不太 + adjective."
-    },
-    "rang_ta_typo": {
-      "category": "vocabulary",
-      "subcategory": "character_recall",
-      "description": "",
-      "severity": "minor",
-      "frequency": 1,
-      "mastery_level": 0,
-      "difficulty_score": 0.2,
-      "last_seen": "2026-06-26",
-      "last_occurred": "2026-06-26",
-      "next_review": "2026-06-27",
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "examples": [
-        {
-          "incorrect": "让不太好",
-          "correct": "他不太好",
-          "context": "he is not very good — retype",
-          "date": "2026-06-26"
-        }
-      ],
-      "notes": "Likely typo — 让 vs 他. Not a pattern, just keyboard error."
-    },
-    "meiyou_recall": {
-      "category": "vocabulary",
-      "subcategory": "verb_recall",
-      "description": "",
-      "severity": "moderate",
-      "frequency": 1,
-      "mastery_level": 0,
-      "difficulty_score": 0.4,
-      "last_seen": "2026-06-26",
-      "last_occurred": "2026-06-26",
-      "next_review": "2026-06-27",
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "examples": [
-        {
-          "incorrect": "我_时间",
-          "correct": "我没有时间",
-          "context": "integration dialogue — I don't have time",
-          "date": "2026-06-26"
-        }
-      ],
-      "notes": "Could not recall 没有 in connected speech context. Knew the word in isolation earlier in session."
     }
   }
 }

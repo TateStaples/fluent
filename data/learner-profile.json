@@ -13,10 +13,10 @@
     "motivation": "work"
   },
   "profile_created": "2026-06-25",
-  "last_updated": "2026-06-26",
-  "current_streak_days": 1,
-  "total_sessions": 4,
-  "total_study_minutes": 70,
+  "last_updated": "2026-06-25",
+  "current_streak_days": 0,
+  "total_sessions": 2,
+  "total_study_minutes": 30,
   "skills": {
     "writing": {
       "current_level": 1,
@@ -32,9 +32,9 @@
     },
     "vocabulary": {
       "current_level": 1,
-      "confidence": 61,
-      "last_practiced": "2026-06-26",
-      "total_practice_time": 55
+      "confidence": 48,
+      "last_practiced": "2026-06-25",
+      "total_practice_time": 15
     },
     "reading": {
       "current_level": 1,
@@ -115,18 +115,6 @@
       "name": "First hanzi answers produced in session",
       "earned_date": "2026-06-25",
       "description": "First hanzi answers produced in session"
-    },
-    {
-      "id": "session_session-003_0_produced_complete_self_introdu",
-      "name": "Produced complete self-introduction in hanzi from memory",
-      "earned_date": "2026-06-26",
-      "description": "Produced complete self-introduction in hanzi from memory"
-    },
-    {
-      "id": "session_session-004_0_resolved_sh_vs_shu_confusion",
-      "name": "Resolved shì vs shuǐ confusion — no errors in 3 consecutive reviews",
-      "earned_date": "2026-06-26",
-      "description": "Resolved shì vs shuǐ confusion — no errors in 3 consecutive reviews"
     }
   ],
   "preferences": {
@@ -139,5 +127,19 @@
     "feedback_style": "immediate_with_explanation",
     "gamification_enabled": false,
     "use_emojis": false
+  },
+  "teaching_instructions": {
+    "vocabulary_introduction": {
+      "always_include": [
+        "hanzi character(s)",
+        "pinyin with tone marks",
+        "literal/directional translation for multi-character words (e.g. 高兴 = high + spirit = happy)",
+        "character breakdown: subcomponents, radical, and mnemonic imagery or historical origin for each character"
+      ],
+      "format_example": "再见 (zàijiàn) — 再 again + 见 see/meet → 'see you again'. 再: a second stroke added above 一, suggesting repetition. 见: eye (目) with legs — someone walking into view."
+    },
+    "scoring_feedback": {
+      "always_append_after_score": "pinyin pronunciation of the word or phrase just answered, so learner keeps pronunciation top of mind even in text-only sessions"
+    }
   }
 }
