@@ -2,7 +2,7 @@
   "metadata": {
     "language": "Mandarin",
     "learner_name": "Tate",
-    "total_sessions": 6
+    "total_sessions": 7
   },
   "sessions": [
     {
@@ -193,6 +193,35 @@
         "认识你很高兴 no-hint",
         "不太 negation",
         "时间词 trio"
+      ],
+      "notes": "",
+      "achievements_earned": [],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-007",
+      "date": "2026-06-26",
+      "duration_minutes": 15,
+      "skills_practiced": [
+        "vocabulary"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 20,
+      "accuracy": 0.7,
+      "score_breakdown": {
+        "vocabulary": 0.7
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "认识你很高兴 produced without hint for first time in integration sentence",
+        "我是美国人 fully automatic",
+        "什么 learned from context"
+      ],
+      "focus_next_session": [
+        "再见 — drill daily until automatic",
+        "不太 negation — dedicated exercises",
+        "九 vs 几 character distinction",
+        "第 ordinal prefix"
       ],
       "notes": "",
       "achievements_earned": [],

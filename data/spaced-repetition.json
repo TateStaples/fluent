@@ -2,19 +2,33 @@
   "metadata": {
     "algorithm": "SM-2",
     "last_updated": "2026-06-26",
-    "total_items_tracked": 53,
+    "total_items_tracked": 56,
     "language": "Mandarin"
   },
   "review_queue": {
     "today": [
+      "meiguoren",
+      "di",
+      "shi_tone_confusion",
+      "ta_he",
+      "ta_she",
+      "meiyou",
+      "shijian",
+      "renshi_character_confusion",
+      "di_ordinal",
+      "shi_before_adjective"
+    ],
+    "tomorrow": [
+      "ni_hao",
+      "zai_jian",
       "wo",
       "jiao",
       "shi",
-      "meiguoren",
       "shi_vs_shui_confusion",
       "yi",
       "er",
       "si",
+      "wu",
       "liu",
       "qi",
       "ba",
@@ -22,27 +36,13 @@
       "shi_10",
       "ni",
       "ta",
-      "di",
       "san_pronunciation",
-      "shi_tone_confusion",
       "wu_liu_swap",
       "ordinal_di_missing",
-      "ta_he",
-      "ta_she",
-      "meiyou",
-      "shijian",
-      "renshi_character_confusion",
-      "di_ordinal",
-      "shi_before_adjective",
-      "bu_tai_pattern"
-    ],
-    "tomorrow": [
-      "ni_hao",
-      "zai_jian",
-      "wu",
       "gongzuo_work",
       "renshi",
       "bu_tai",
+      "bu_tai_pattern",
       "jintian",
       "mingtian",
       "qing",
@@ -53,19 +53,22 @@
       "renshi_gaoxing_recall",
       "zuotian",
       "tamen",
-      "zaijian_recall"
+      "zaijian_recall",
+      "shenme",
+      "jiao_recall",
+      "jiu_character_confusion"
     ],
     "this_week": [
       "xie_xie",
       "wo_zai_gongzuo",
-      "renshi_ni_hen_gaoxing",
       "san",
       "gaoxing",
       "meiyou_shijian",
       "hen_adj_predicate"
     ],
     "later": [
-      "dui_bu_qi"
+      "dui_bu_qi",
+      "renshi_ni_hen_gaoxing"
     ]
   },
   "items": {
@@ -176,6 +179,65 @@
       "due_date": "2026-06-27",
       "interval_days": 1,
       "repetitions": 0,
+      "easiness_factor": 1.86,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 2,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 2,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 2,
+          "score": 4
+        },
+        {
+          "date": "2026-06-26",
+          "quality": 2,
+          "score": 3
+        }
+      ]
+    },
+    "wo": {
+      "id": "wo",
+      "type": "vocabulary",
+      "content": "wǒ",
+      "answer": "I / me",
+      "category": "pronouns",
+      "difficulty": "A1",
+      "created_date": "2026-06-25",
+      "due_date": "2026-06-27",
+      "interval_days": 1,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 5,
+      "mastery_level": 0,
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 5,
+          "score": 10
+        }
+      ]
+    },
+    "jiao": {
+      "id": "jiao",
+      "type": "vocabulary",
+      "content": "jiào",
+      "answer": "am called (for names)",
+      "category": "verbs",
+      "difficulty": "A1",
+      "created_date": "2026-06-25",
+      "due_date": "2026-06-27",
+      "interval_days": 1,
+      "repetitions": 0,
       "easiness_factor": 2.18,
       "consecutive_correct": 0,
       "consecutive_incorrect": 1,
@@ -188,49 +250,9 @@
         {
           "date": "2026-06-26",
           "quality": 2,
-          "score": 4
+          "score": 0
         }
       ]
-    },
-    "wo": {
-      "id": "wo",
-      "type": "vocabulary",
-      "content": "wǒ",
-      "answer": "I / me",
-      "category": "pronouns",
-      "difficulty": "A1",
-      "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
-      "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 4,
-      "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
-    },
-    "jiao": {
-      "id": "jiao",
-      "type": "vocabulary",
-      "content": "jiào",
-      "answer": "am called (for names)",
-      "category": "verbs",
-      "difficulty": "A1",
-      "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
-      "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 4,
-      "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
     },
     "shi": {
       "id": "shi",
@@ -240,17 +262,24 @@
       "category": "verbs",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 3,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 5,
+          "score": 10
+        }
+      ]
     },
     "meiguoren": {
       "id": "meiguoren",
@@ -312,20 +341,25 @@
       "category": "professional",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-07-02",
-      "interval_days": 6,
-      "repetitions": 2,
-      "easiness_factor": 2.22,
-      "consecutive_correct": 2,
+      "due_date": "2026-07-10",
+      "interval_days": 14,
+      "repetitions": 3,
+      "easiness_factor": 2.08,
+      "consecutive_correct": 3,
       "consecutive_incorrect": 0,
       "last_reviewed": "2026-06-26",
       "last_quality": 3,
       "mastery_level": 0,
-      "total_reviews": 2,
+      "total_reviews": 3,
       "priority": "high",
       "review_history": [
         {
           "date": "2026-06-25",
+          "quality": 3,
+          "score": 6
+        },
+        {
+          "date": "2026-06-26",
           "quality": 3,
           "score": 6
         },
@@ -344,17 +378,24 @@
       "category": "vocabulary",
       "difficulty": "",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 2,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 5,
+          "score": 10
+        }
+      ]
     },
     "yi": {
       "id": "yi",
@@ -364,17 +405,24 @@
       "category": "numbers",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 4,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 5,
+          "score": 10
+        }
+      ]
     },
     "er": {
       "id": "er",
@@ -384,17 +432,24 @@
       "category": "numbers",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 4,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 5,
+          "score": 10
+        }
+      ]
     },
     "san": {
       "id": "san",
@@ -436,17 +491,24 @@
       "category": "numbers",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 4,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 5,
+          "score": 10
+        }
+      ]
     },
     "wu": {
       "id": "wu",
@@ -483,17 +545,24 @@
       "category": "numbers",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
+      "last_reviewed": "2026-06-26",
       "last_quality": 4,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 4,
+          "score": 7
+        }
+      ]
     },
     "qi": {
       "id": "qi",
@@ -503,17 +572,24 @@
       "category": "numbers",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
+      "last_reviewed": "2026-06-26",
       "last_quality": 4,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 4,
+          "score": 7
+        }
+      ]
     },
     "ba": {
       "id": "ba",
@@ -523,17 +599,24 @@
       "category": "numbers",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
+      "last_reviewed": "2026-06-26",
       "last_quality": 4,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 4,
+          "score": 7
+        }
+      ]
     },
     "jiu": {
       "id": "jiu",
@@ -543,17 +626,24 @@
       "category": "numbers",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.36,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 4,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 3,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 3,
+          "score": 7
+        }
+      ]
     },
     "shi_10": {
       "id": "shi_10",
@@ -563,17 +653,24 @@
       "category": "numbers",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 2.18,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 3,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 2,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 2,
+          "score": 2
+        }
+      ]
     },
     "ni": {
       "id": "ni",
@@ -583,17 +680,24 @@
       "category": "pronouns",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 4,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 5,
+          "score": 9
+        }
+      ]
     },
     "ta": {
       "id": "ta",
@@ -603,17 +707,24 @@
       "category": "pronouns",
       "difficulty": "A1",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 4,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 5,
+          "score": 10
+        }
+      ]
     },
     "di": {
       "id": "di",
@@ -643,17 +754,24 @@
       "category": "vocabulary",
       "difficulty": "",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 2,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 5,
+          "score": 10
+        }
+      ]
     },
     "shi_tone_confusion": {
       "id": "shi_tone_confusion",
@@ -683,17 +801,24 @@
       "category": "vocabulary",
       "difficulty": "",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-06-25",
-      "last_quality": 2,
+      "repetitions": 1,
+      "easiness_factor": 2.36,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 3,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 3,
+          "score": 7
+        }
+      ]
     },
     "ordinal_di_missing": {
       "id": "ordinal_di_missing",
@@ -703,17 +828,24 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 2.18,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-06-25",
+      "consecutive_incorrect": 2,
+      "last_reviewed": "2026-06-26",
       "last_quality": 2,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 2,
+          "score": 4
+        }
+      ]
     },
     "ta_he": {
       "id": "ta_he",
@@ -1040,17 +1172,24 @@
       "category": "",
       "difficulty": "",
       "created_date": "2026-06-25",
-      "due_date": "2026-06-26",
+      "due_date": "2026-06-27",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 2.18,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-06-25",
+      "consecutive_incorrect": 2,
+      "last_reviewed": "2026-06-26",
       "last_quality": 2,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-06-26",
+          "quality": 2,
+          "score": 3
+        }
+      ]
     },
     "jintian": {
       "id": "jintian",
@@ -1271,6 +1410,66 @@
       "type": "error_pattern",
       "content": "",
       "answer": "再见",
+      "category": "",
+      "difficulty": "",
+      "created_date": "2026-06-26",
+      "due_date": "2026-06-27",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "shenme": {
+      "id": "shenme",
+      "type": "vocabulary",
+      "content": "什么",
+      "answer": "shénme — what",
+      "category": "question_words",
+      "difficulty": "beginner",
+      "created_date": "2026-06-26",
+      "due_date": "2026-06-27",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 3,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "jiao_recall": {
+      "id": "jiao_recall",
+      "type": "error_pattern",
+      "content": "",
+      "answer": "jiào",
+      "category": "",
+      "difficulty": "",
+      "created_date": "2026-06-26",
+      "due_date": "2026-06-27",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-06-26",
+      "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "jiu_character_confusion": {
+      "id": "jiu_character_confusion",
+      "type": "error_pattern",
+      "content": "",
+      "answer": "九",
       "category": "",
       "difficulty": "",
       "created_date": "2026-06-26",

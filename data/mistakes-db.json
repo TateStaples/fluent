@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_updated": "2026-06-26",
-    "total_patterns_tracked": 13,
+    "total_patterns_tracked": 15,
     "language": "Mandarin"
   },
   "error_patterns": {
@@ -171,14 +171,14 @@
       "subcategory": "",
       "description": "",
       "severity": "minor",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
       "last_seen": "2026-06-26",
       "last_occurred": "2026-06-26",
       "next_review": "2026-06-27",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "",
@@ -191,9 +191,15 @@
           "correct": "不太",
           "context": "",
           "date": "2026-06-26"
+        },
+        {
+          "incorrect": "",
+          "correct": "不太好",
+          "context": "",
+          "date": "2026-06-26"
         }
       ],
-      "notes": "Inverted negation pattern"
+      "notes": "Third session in a row with 不很 instead of 不太"
     },
     "jintian_mingtian_confusion": {
       "category": "other",
@@ -298,6 +304,35 @@
       "subcategory": "",
       "description": "",
       "severity": "minor",
+      "frequency": 2,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-06-26",
+      "last_occurred": "2026-06-26",
+      "next_review": "2026-06-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 2,
+      "examples": [
+        {
+          "incorrect": "",
+          "correct": "再见",
+          "context": "",
+          "date": "2026-06-26"
+        },
+        {
+          "incorrect": "",
+          "correct": "再见",
+          "context": "",
+          "date": "2026-06-26"
+        }
+      ],
+      "notes": "Needed pinyin + character hint"
+    },
+    "jiao_recall": {
+      "category": "other",
+      "subcategory": "",
+      "description": "",
+      "severity": "minor",
       "frequency": 1,
       "mastery_level": 0,
       "difficulty_score": 0.5,
@@ -309,12 +344,35 @@
       "examples": [
         {
           "incorrect": "",
-          "correct": "再见",
+          "correct": "jiào",
           "context": "",
           "date": "2026-06-26"
         }
       ],
-      "notes": "Blanked on goodbye"
+      "notes": "Completely wrong word — recall failure for 叫"
+    },
+    "jiu_character_confusion": {
+      "category": "other",
+      "subcategory": "",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-06-26",
+      "last_occurred": "2026-06-26",
+      "next_review": "2026-06-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "",
+          "correct": "九",
+          "context": "",
+          "date": "2026-06-26"
+        }
+      ],
+      "notes": "几 (how many) confused with 九 (nine)"
     }
   }
 }

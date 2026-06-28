@@ -15,8 +15,8 @@
   "profile_created": "2026-06-25",
   "last_updated": "2026-06-26",
   "current_streak_days": 1,
-  "total_sessions": 6,
-  "total_study_minutes": 100,
+  "total_sessions": 7,
+  "total_study_minutes": 115,
   "skills": {
     "writing": {
       "current_level": 1,
@@ -32,9 +32,9 @@
     },
     "vocabulary": {
       "current_level": 1,
-      "confidence": 68,
+      "confidence": 69,
       "last_practiced": "2026-06-26",
-      "total_practice_time": 74
+      "total_practice_time": 89
     },
     "reading": {
       "current_level": 1,
