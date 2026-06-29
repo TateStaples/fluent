@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_updated": "2026-06-26",
-    "total_patterns_tracked": 15,
+    "total_patterns_tracked": 17,
     "language": "Mandarin"
   },
   "error_patterns": {
@@ -304,15 +304,21 @@
       "subcategory": "",
       "description": "",
       "severity": "minor",
-      "frequency": 2,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
       "last_seen": "2026-06-26",
       "last_occurred": "2026-06-26",
       "next_review": "2026-06-27",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 2,
+      "consecutive_incorrect": 3,
       "examples": [
+        {
+          "incorrect": "",
+          "correct": "再见",
+          "context": "",
+          "date": "2026-06-26"
+        },
         {
           "incorrect": "",
           "correct": "再见",
@@ -326,7 +332,7 @@
           "date": "2026-06-26"
         }
       ],
-      "notes": "Needed pinyin + character hint"
+      "notes": "Still needs prompt"
     },
     "jiao_recall": {
       "category": "other",
@@ -373,6 +379,52 @@
         }
       ],
       "notes": "几 (how many) confused with 九 (nine)"
+    },
+    "mingyi_vs_mingzi": {
+      "category": "other",
+      "subcategory": "",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-06-26",
+      "last_occurred": "2026-06-26",
+      "next_review": "2026-06-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "",
+          "correct": "名字",
+          "context": "",
+          "date": "2026-06-26"
+        }
+      ],
+      "notes": "名义 (nominal) confused with 名字 (name)"
+    },
+    "you_vs_shou": {
+      "category": "other",
+      "subcategory": "",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-06-26",
+      "last_occurred": "2026-06-26",
+      "next_review": "2026-06-27",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "",
+          "correct": "有",
+          "context": "",
+          "date": "2026-06-26"
+        }
+      ],
+      "notes": "收 (receive) used instead of 有 (have)"
     }
   }
 }

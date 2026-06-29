@@ -2,7 +2,7 @@
   "metadata": {
     "language": "Mandarin",
     "learner_name": "Tate",
-    "total_sessions": 7
+    "total_sessions": 8
   },
   "sessions": [
     {
@@ -222,6 +222,35 @@
         "不太 negation — dedicated exercises",
         "九 vs 几 character distinction",
         "第 ordinal prefix"
+      ],
+      "notes": "",
+      "achievements_earned": [],
+      "streak_day": 1
+    },
+    {
+      "session_id": "session-008",
+      "date": "2026-06-26",
+      "duration_minutes": 18,
+      "skills_practiced": [
+        "vocabulary"
+      ],
+      "command_used": "/fluent-vocab",
+      "exercises_completed": 15,
+      "accuracy": 0.733,
+      "score_breakdown": {
+        "vocabulary": 0.733
+      },
+      "topics_covered": [],
+      "breakthroughs": [
+        "认识你很高兴 produced without hint in integration sentence",
+        "那里 vs 哪里 distinction grasped quickly",
+        "我学习中文 — perfect new sentence on first try"
+      ],
+      "focus_next_session": [
+        "再见 — must become automatic",
+        "时间 — blanked again",
+        "有 vs 收 — have vs receive",
+        "名字 — 义 vs 字 character"
       ],
       "notes": "",
       "achievements_earned": [],

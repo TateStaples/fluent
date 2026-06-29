@@ -5,13 +5,13 @@
     "tracking_started": "2026-06-25"
   },
   "overall_stats": {
-    "total_sessions": 7,
-    "total_exercises": 96,
-    "total_correct": 75,
-    "total_incorrect": 21,
-    "accuracy_rate": 0.781,
-    "total_study_minutes": 115,
-    "average_session_duration": 16
+    "total_sessions": 8,
+    "total_exercises": 111,
+    "total_correct": 86,
+    "total_incorrect": 25,
+    "accuracy_rate": 0.775,
+    "total_study_minutes": 133,
+    "average_session_duration": 17
   },
   "accuracy_trend": [
     {
@@ -21,8 +21,8 @@
     },
     {
       "date": "2026-06-26",
-      "accuracy": 0.7,
-      "exercises": 50
+      "accuracy": 0.733,
+      "exercises": 65
     }
   ],
   "skill_progress": {
@@ -43,12 +43,12 @@
       "incorrect_count": 0
     },
     "vocabulary": {
-      "sessions": 7,
-      "accuracy": 0.821,
+      "sessions": 8,
+      "accuracy": 0.81,
       "last_practiced": "2026-06-26",
-      "exercises_completed": 82,
-      "correct_count": 64,
-      "incorrect_count": 18
+      "exercises_completed": 97,
+      "correct_count": 75,
+      "incorrect_count": 22
     },
     "reading": {
       "sessions": 4,
@@ -67,9 +67,9 @@
   "weekly_summary": [
     {
       "week_start": "2026-06-22",
-      "sessions": 7,
-      "total_minutes": 115,
-      "accuracy": 0.793
+      "sessions": 8,
+      "total_minutes": 133,
+      "accuracy": 0.785
     }
   ]
 }
